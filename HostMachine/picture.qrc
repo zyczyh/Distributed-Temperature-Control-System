@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>picture/check_in.jpg</file>
+        <file>picture/connected.jpg</file>
+        <file>picture/fjh.jpg</file>
+        <file>picture/id.jpg</file>
+        <file>picture/kg_2.jpg</file>
+        <file>picture/kg_2_an.jpg</file>
+        <file>picture/manage.jpg</file>
+        <file>picture/msg.jpg</file>
+        <file>picture/ri.jpg</file>
+        <file>picture/yue.jpg</file>
+        <file>picture/zhou.jpg</file>
+        <file>picture/zl_2.jpg</file>
+        <file>picture/zr_2.jpg</file>
+        <file>picture/timg.jpg</file>
+        <file>picture/xx.jpg</file>
+        <file>picture/sx.jpg</file>
+        <file>picture/room.jpg</file>
+        <file>picture/xq.jpg</file>
+    </qresource>
+</RCC>
