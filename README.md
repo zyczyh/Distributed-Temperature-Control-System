@@ -19,7 +19,7 @@ Project detail and functions:
 
 6. The central air conditioner calculates the energy consumed by each room in real time (a standard power consumption unit per minute for low speed wind, 0.8 per minute for medium speed wind, 1.3 per minute for high speed wind) and the amount to be paid (5 yuan per unit) And send the corresponding information to each slave to display online, so that customers can view the usage and amount in real time.
 
-7. The central air-conditioning monitoring has a statistical function, and daily reports, weekly reports, and monthly reports can be given as needed. The contents of the report are as follows: the room number, the number of times the machine is turned on, the start and stop time of the temperature control request, the start and end temperature of the temperature control request, and the air volume.
+7. The central air-conditioning monitoring system has a statistical function, daily reports, weekly reports, and monthly reports can be given as needed. The contents of the report are as follows: the room number, the number of times the machine is turned on, the start and stop time of the temperature control request, the start and end temperature of the temperature control request, and the air volume.
 
 8. The central air conditioner can only process three slave control requests at the same time, and handle temperature control requests of more than three slaves in a time slice polling manner.
 
